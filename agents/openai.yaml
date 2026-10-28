@@ -1,0 +1,4 @@
+interface:
+  display_name: "Word Content Normalizer"
+  short_description: "清理 Word 并按标题边界安全导出分段文件"
+  default_prompt: "Use $word-content-normalizer to clean this Word document or export it into verified DOCX segments while preserving visual objects."
